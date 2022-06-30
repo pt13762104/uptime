@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/test1417735181.epizy.com",
     "slug": "main",
     "status": "up",
-    "uptime": "1.97%",
-    "uptimeDay": "1.97%",
-    "uptimeWeek": "1.97%",
-    "uptimeMonth": "1.97%",
-    "uptimeYear": "1.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 392,
     "timeWeek": 392,
     "timeMonth": 392,
     "timeYear": 392,
-    "dailyMinutesDown": {
-      "2022-06-30": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forum",
@@ -25,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/forum1417735181.epizy.com",
     "slug": "forum",
     "status": "up",
-    "uptime": "1.69%",
-    "uptimeDay": "1.69%",
-    "uptimeWeek": "1.69%",
-    "uptimeMonth": "1.69%",
-    "uptimeYear": "1.69%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 375,
     "timeDay": 375,
     "timeWeek": 375,
     "timeMonth": 375,
     "timeYear": 375,
-    "dailyMinutesDown": {
-      "2022-06-30": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
