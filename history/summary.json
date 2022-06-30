@@ -22,19 +22,19 @@
     "url": "https://forum1417735181.epizy.com",
     "icon": "https://favicons.githubusercontent.com/forum1417735181.epizy.com",
     "slug": "forum",
-    "status": "down",
-    "uptime": "44.43%",
-    "uptimeDay": "44.43%",
-    "uptimeWeek": "44.43%",
-    "uptimeMonth": "44.43%",
-    "uptimeYear": "44.43%",
-    "time": 416,
-    "timeDay": 416,
-    "timeWeek": 416,
-    "timeMonth": 416,
-    "timeYear": 416,
+    "status": "up",
+    "uptime": "41.25%",
+    "uptimeDay": "41.25%",
+    "uptimeWeek": "41.25%",
+    "uptimeMonth": "41.25%",
+    "uptimeYear": "41.25%",
+    "time": 415,
+    "timeDay": 415,
+    "timeWeek": 415,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2022-06-30": 168
+      "2022-06-30": 192
     }
   }
 ]
