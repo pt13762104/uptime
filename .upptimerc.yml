@@ -1,5 +1,6 @@
 owner: pt13762104 # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+runner: [ubuntu-latest]
 sites:
   - name: Main
     url: https://test1417735181.epizy.com
