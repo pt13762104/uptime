@@ -5,11 +5,11 @@ sites:
   - name: Main
     url: https://test1417735181.epizy.com
     ##unrecognized cert? (ubuntu 18.04)
-    #__dangerous__insecure: true
+    __dangerous__insecure: true
     maxResponseTime: 10000
   - name: Forum
     url: https://forum1417735181.epizy.com
-    #__dangerous__insecure: true
+    __dangerous__insecure: true
     maxResponseTime: 10000
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
